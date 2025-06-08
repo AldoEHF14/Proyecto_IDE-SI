@@ -38,13 +38,13 @@ Este problema posee un **espacio de búsqueda exponencial**, por lo que resulta 
 - Rápido, pero no garantiza cubrir todo el tablero.
 - Genera una gráfica con la distribución de los valores.
 
-### 🔸 `pso.py` — Optimización por Enjambre de Partículas
+### 🔸 `Proyecto.py` — Optimización por Enjambre de Partículas (PSO)
 
 - Cada partícula representa una posible solución del Sudoku.
 - Mejora la solución iterativamente según un fitness basado en repeticiones y ceros.
 - Permite comparar múltiples instancias (3) y genera `boxplots` al final.
 
-### 🧬 `genetic_algorithm.py` — Algoritmo Genético
+### 🧬 `metahuristica.py` — Algoritmo Genético
 
 - Modela genes y cromosomas como filas del Sudoku.
 - Aplica cruza, mutación y selección ponderada por fitness.
