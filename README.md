@@ -89,7 +89,7 @@ python greedy.py
 ```bash
 python Proyecto.py instanciaSudoku2.txt 9 100 30
 ```
-## Metahuristica
+### Metahuristica
 ```bash
 python metahuristica.py
 ```
