@@ -18,7 +18,7 @@ Diseñar e implementar modelos de resolución inteligente que sean capaces de ab
 
 ---
 
-## 💡 Descripción del Problema
+##  📌  Descripción del Problema
 
 El Sudoku es un problema lógico NP-completo que requiere rellenar una cuadrícula de `9x9` con los números del `1 al 9` de forma que:
 
@@ -30,7 +30,7 @@ Este problema posee un **espacio de búsqueda exponencial**, por lo que resulta 
 
 ---
 
-## ⚙️ Algoritmos Implementados
+## ⚙ Algoritmos Implementados
 
 ### 🔹 `greedy.py` — Algoritmo Voraz
 
@@ -53,7 +53,7 @@ Este problema posee un **espacio de búsqueda exponencial**, por lo que resulta 
 
 ---
 
-## 📁 Estructura del Proyecto
+## 🧑‍💻 Estructura del Proyecto
 
 | Archivo | Descripción |
 |--------|-------------|
