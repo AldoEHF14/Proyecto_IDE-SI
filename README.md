@@ -58,12 +58,12 @@ Este problema posee un **espacio de búsqueda exponencial**, por lo que resulta 
 | Archivo | Descripción |
 |--------|-------------|
 | `greedy.py` | Resolución del Sudoku mediante un enfoque voraz. |
-| `pso.py` | Implementación del algoritmo PSO aplicado a Sudoku. |
-| `genetic_algorithm.py` | Algoritmo genético para resolver el Sudoku con mutación, cruza y fitness. |
+| `Proyecto.py` | Implementación del algoritmo PSO aplicado a Sudoku. |
+| `metahuristica.py` | Algoritmo genético para resolver el Sudoku con mutación, cruza y fitness. |
 | `instanciaSudoku.txt` | Instancia inicial del Sudoku. |
 | `instanciaSudoku2.txt` | Segunda instancia del Sudoku. |
 | `instanciaSudoku3.txt` | Tercera instancia utilizada en PSO. |
-| `Proyecto 4.pdf` | Informe completo del proyecto con justificación, teoría y análisis de resultados. |
+| `Proyecto.pdf` | Informe completo del proyecto con justificación, teoría y análisis de resultados. |
 
 ---
 
@@ -91,7 +91,7 @@ python Proyecto.py instanciaSudoku2.txt 9 100 30
 ```
 ## Metahuristica
 ```bash
-python Metahuristica.py
+python metahuristica.py
 ```
 ---
 
