@@ -84,3 +84,21 @@ Este problema posee un **espacio de búsqueda exponencial**, por lo que resulta 
 ### Greedy
 ```bash
 python greedy.py
+```
+### PSO
+```bash
+python Proyecto.py instanciaSudoku2.txt 9 100 30
+```
+## Metahuristica
+```bash
+python Metahuristica.py
+```
+---
+
+## 👥 Autores
+
+- Cortés López Alan Yair  
+- García Núñez Rodrigo  
+- Chávez Flores Alejandro  
+- **Hernández Flores Aldo Enrique**
+
