@@ -93,12 +93,3 @@ python Proyecto.py instanciaSudoku2.txt 9 100 30
 ```bash
 python metahuristica.py
 ```
----
-
-## 👥 Autores
-
-- Cortés López Alan Yair  
-- García Núñez Rodrigo  
-- Chávez Flores Alejandro  
-- **Hernández Flores Aldo Enrique**
-
