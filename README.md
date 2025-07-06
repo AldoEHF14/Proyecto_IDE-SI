@@ -1,6 +1,6 @@
 # UEA: Inteligencia de Enjambre
 
-## 🧩 Proyecto: Resolución del Sudoku mediante Algoritmos PSO 
+## 🧩 Resolución del Sudoku mediante Algoritmos PSO 
 
 Este proyecto presenta la resolución del juego lógico **Sudoku** utilizando tres enfoques de inteligencia artificial:
 
