@@ -12,7 +12,7 @@ El objetivo es comparar estas estrategias y analizar su desempeño frente a dife
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivo
 
 Diseñar e implementar modelos de resolución inteligente que sean capaces de abordar el problema del Sudoku (NP-completo) y comparar su eficiencia, exactitud y escalabilidad utilizando técnicas bioinspiradas y heurísticas.
 
